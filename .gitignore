@@ -1,0 +1,10 @@
+#folders
+__pycache__
+env
+
+# database
+.sqlite3
+
+#files
+.env
+
