@@ -1,7 +1,7 @@
 #folders
 __pycache__
 env
-dev_resouces
+dev_resources/
 
 # database
 .sqlite3
